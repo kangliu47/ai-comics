@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Enterprise AI satire by KKLL. Browse comics about adoption, governance, integration and the gap between powerful tools and useful outcomes.">
+  <meta name="theme-color" content="#faf9f6">
+  <title>AI Vehicle Comics · KKLL</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="gallery.css">
+  <script src="gallery.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to comics</a>
+  <div class="page">
+    <header class="site-header">
+      <a class="brand" href="./">AI VEHICLE COMICS <span>/ KKLL</span></a>
+      <span class="header-note">Fictional enterprise AI satire</span>
+    </header>
+    <main id="main">
+      <section id="gallery" aria-labelledby="gallery-title">
+        <div class="intro">
+          <h1 id="gallery-title" tabindex="-1">Powerful tools. Familiar traffic.</h1>
+          <p>Enterprise AI, observed from the road.</p>
+        </div>
+        <p id="gallery-notice" class="status" role="status"></p>
+        <div class="comic-grid">
+{{GALLERY_CARDS}}
+        </div>
+      </section>
+      <section id="reader" aria-labelledby="reader-title" hidden>
+        <nav class="reader-nav" aria-label="Comic navigation">
+          <button id="back-to-gallery" type="button">← All comics</button>
+          <div class="reader-steps">
+            <span id="reader-position" class="eyebrow"></span>
+            <button id="previous-comic" type="button" aria-label="Previous comic">← Previous</button>
+            <button id="next-comic" type="button" aria-label="Next comic">Next →</button>
+          </div>
+        </nav>
+        <div class="reader-heading">
+          <p id="reader-number" class="eyebrow"></p>
+          <h1 id="reader-title" tabindex="-1"></h1>
+        </div>
+        <a id="reader-original" class="reader-art" target="_blank" rel="noopener">
+          <img id="reader-image" alt="">
+        </a>
+        <div class="reader-details">
+          <p id="reader-caption"></p>
+          <div class="reader-actions">
+            <button id="share-comic" type="button">Share this comic</button>
+            <span class="original-hint">Tap artwork for full resolution</span>
+          </div>
+          <p id="share-status" class="status" role="status"></p>
+          <div id="share-fallback" hidden>
+            <label for="share-url">Comic link</label>
+            <input id="share-url" type="url" readonly>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>Fictional industry satire. All people, organizations, workflows and figures are illustrative.</p>
+      <p>Artwork signed KKLL. <a href="https://github.com/kangliu47/ai-comics">Creative sources on GitHub ↗</a></p>
+    </footer>
+  </div>
+  <script id="comic-data" type="application/json">{{COMIC_DATA}}</script>
+</body>
+</html>

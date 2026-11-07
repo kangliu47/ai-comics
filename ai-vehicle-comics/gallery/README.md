@@ -2,6 +2,8 @@
 
 Fictional industry satire about enterprise AI adoption and operating problems. All figures and organizations are illustrative. Source prompts and drafts are available for creative reuse.
 
+[Browse the public gallery website](https://kangliu47.github.io/ai-comics/) for a full-size reader and per-comic share links.
+
 ## Comic 028: The Pilot Was Fast
 
 ![Comic 028: The Pilot Was Fast](../03_assets/selected_drafts/028_the_pilot_was_fast_v3.png)

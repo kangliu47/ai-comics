@@ -23,6 +23,7 @@ PATTERNS = {
 }
 ALLOWED_SUFFIXES = {'.md', '.json', '.png', '.py', '.yml', '.yaml'}
 ALLOWED_DOTFILES = {'.gitignore', '.gitkeep', '.gitattributes'}
+SITE_SUFFIXES = {'.html', '.css', '.js'}
 
 
 def git(*args):
@@ -41,7 +42,8 @@ def text_issues(text):
 def file_issues(name, data):
     p = Path(name)
     issues = text_issues(name)
-    if p.suffix not in ALLOWED_SUFFIXES and p.name not in ALLOWED_DOTFILES:
+    reviewed_site_source = p.parts[:1] == ('site',) and p.suffix in SITE_SUFFIXES
+    if p.suffix not in ALLOWED_SUFFIXES and p.name not in ALLOWED_DOTFILES and not reviewed_site_source:
         issues.append('file type needs explicit publication review')
     if any(part in {'.tmp', 'tmp', '.superpowers', '.codex', '.agents', '__pycache__'} for part in p.parts):
         issues.append('private/scratch path')

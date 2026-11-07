@@ -1,0 +1,71 @@
+:root {
+  color-scheme: light;
+  --paper: #faf9f6;
+  --ink: #232421;
+  --soft: #62655d;
+  --line: #d5d6cf;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.6 system-ui, sans-serif; }
+a { color: inherit; text-underline-offset: 4px; }
+button, input { font: inherit; }
+button { padding: 9px 14px; border: 1px solid var(--line); border-radius: 4px; background: transparent; color: var(--ink); cursor: pointer; min-height: 44px; }
+button:hover { background: #eceee7; }
+a:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--ink); outline-offset: 5px; }
+h1:focus { outline: none; }
+.skip-link { position: absolute; top: 8px; left: 16px; padding: 8px 12px; background: var(--paper); transform: translateY(-180%); z-index: 1; }
+.skip-link:focus { transform: none; }
+.page { width: min(1320px, 100%); margin: auto; padding: 0 40px; }
+.site-header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px 24px; padding: 25px 0; border-bottom: 1px solid var(--line); }
+.brand { text-decoration: none; letter-spacing: .1em; font-size: 13px; font-weight: 650; }
+.brand span, .header-note { color: var(--soft); font-size: 12px; }
+.intro { padding: 46px 0 34px; }
+h1 { margin: 0; font: 500 clamp(28px, 4vw, 46px)/1.15 Georgia, serif; overflow-wrap: anywhere; }
+.intro p { margin: 12px 0 0; color: var(--soft); font-size: 17px; }
+.comic-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 42px 28px; }
+.comic { min-width: 0; }
+.comic-link { display: block; text-decoration: none; }
+.comic-link img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; background: white; border: 1px solid var(--line); }
+.comic-link:hover .read-label { text-decoration-thickness: 2px; }
+.eyebrow { margin: 16px 0 7px; font-size: 12px; letter-spacing: .09em; color: var(--soft); }
+.comic h2 { font: 500 24px/1.2 Georgia, serif; margin: 0 0 10px; }
+.comic-caption { margin: 0; font-size: 14px; }
+.read-label { display: inline-block; margin-top: 12px; font-size: 13px; text-decoration: underline; text-underline-offset: 4px; }
+.reader-nav { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap; padding: 24px 0; }
+.reader-steps { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; }
+.reader-steps .eyebrow { margin: 0 10px 0 0; letter-spacing: normal; }
+.reader-heading { padding: 2px 0 26px; }
+.reader-heading .eyebrow { margin-top: 0; }
+.reader-art { display: block; }
+.reader-art img { display: block; width: 100%; height: auto; background: white; }
+.reader-details { max-width: 760px; padding: 24px 0 6px; }
+.reader-details > p { margin: 0 0 18px; }
+.reader-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 12px 20px; }
+.original-hint { color: var(--soft); font-size: 13px; }
+.status { color: var(--soft); font-size: 13px; overflow-wrap: anywhere; }
+.status:empty { display: none; }
+#share-status { margin-top: 12px; }
+#share-fallback label { display: block; font-size: 13px; margin: 10px 0 5px; }
+#share-url { width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 4px; background: white; color: var(--ink); }
+footer { margin-top: 48px; padding: 22px 0 30px; border-top: 1px solid var(--line); font-size: 12px; color: var(--soft); }
+footer p { margin: 0 0 4px; }
+@media (max-width: 940px) {
+  .page { padding: 0 26px; }
+  .comic-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .page { padding: 0 18px; }
+  .site-header { padding: 20px 0; }
+  .header-note { display: none; }
+  .intro { padding: 30px 0; }
+  .comic-grid { grid-template-columns: 1fr; gap: 34px; }
+  .comic h2 { font-size: 25px; }
+  .reader-nav { gap: 12px; padding: 18px 0; }
+  .reader-steps { width: 100%; justify-content: space-between; gap: 8px; }
+  .reader-steps button { padding: 8px 11px; }
+  .reader-heading { padding-bottom: 18px; }
+  .reader-art { margin: 0 -12px; }
+  .reader-art img { width: 100%; }
+  footer { margin-top: 34px; }
+}

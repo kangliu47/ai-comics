@@ -4,6 +4,14 @@
 
 Use fictional industry-wide scenarios, generic operating roles, and synthetic figures. Preserve safe artistic rationale and reviewed images. Follow the root public-content privacy rules. Default signature is KKLL; relevant initials-only contributor credit remains on specific artifacts.
 
+## 2026-11-07: GitHub Pages Gallery — Approved Flow And Deployment
+
+Decision: The user approved the sample-content grid → reader mock. Implement the same flow for all ten selected comics, newest first, with existing brief captions, previous/next navigation, browser history, original-resolution artwork and per-comic hash links. Keep the monochrome editorial presentation and KKLL credit.
+
+Implementation: The gallery metadata remains the content source. A small Python builder checks selected image hashes and copies original PNG bytes and provenance into the deployment artifact. Static HTML provides the grid and original-artwork links; JavaScript enhances the reader and copy-link sharing. Publish only this output through the GitHub Pages workflow. Extend the release check's text-file allowance specifically for reviewed HTML/CSS/JavaScript under site; preserve privacy scanning and image checks.
+
+Validation: Local browser checks passed for ten-card ordering, reader navigation, browser Back, direct-link reload, copy-link sharing, and phone/tablet layouts without horizontal overflow. GitHub Pages was enabled with the workflow publishing source. No repository visibility change, history replacement or new external data service.
+
 ## 2026-11-07: Comic 028 — V3 Approved For Publication
 
 Decision: The user selected the crossroads/expressions v3 as final and authorized merging to main and pushing. Copy the reviewed PNG byte-for-byte into selected_drafts, publish its gallery entry and brief caption, retain all safe iterations and exact prompts, and record inspected image hashes. Use KKLL Git metadata and the complete public-release check before commit and push.

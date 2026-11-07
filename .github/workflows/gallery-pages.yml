@@ -1,0 +1,55 @@
+name: Publish comic gallery
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'scripts/**'
+      - 'artwork-review.json'
+      - 'ai-vehicle-comics/gallery/gallery.json'
+      - 'ai-vehicle-comics/03_assets/selected_drafts/**'
+      - '.github/workflows/gallery-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check public release
+        run: python3 scripts/check_public_release.py
+      - name: Build selected gallery
+        run: python3 scripts/build_gallery_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .tmp/gallery-site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy gallery
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -2,7 +2,7 @@
 
 Comics about common enterprise AI problems, told through compact visual analogies. The stories examine adoption, data quality, integration, governance, security, operating capacity, and coordination across organizations.
 
-Start with the [AI Vehicle Comics gallery](ai-vehicle-comics/gallery/README.md), or browse the [series framework and backlog](ai-vehicle-comics/README.md).
+Visit the [AI Vehicle Comics website](https://kangliu47.github.io/ai-comics/) to browse the artwork, read comics at full size and share individual episodes. The [repository gallery](ai-vehicle-comics/gallery/README.md) and [series framework and backlog](ai-vehicle-comics/README.md) preserve the creative sources.
 
 All people, organizations, workflows, events, and figures are fictional or illustrative composites. The comics make no claim about a contributor's employer, clients, personal life, or a specific organization's internal practices. Public products may appear as familiar metaphor references.
 
