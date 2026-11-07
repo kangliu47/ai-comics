@@ -164,6 +164,12 @@ Local AI shortcuts can be rational in isolation while still creating an enterpri
 
 [Episode source](../../01_comic_backlog/027_shortcut_factory.md)
 
+## Comic 028: The Pilot Was Fast
+
+Leadership extrapolates a three-car empty-road pilot into an enterprise rollout, then recalls keys after gridlock reveals that throughput, rather than individual speed, was the objective. V3 crossroads/expressions revision approved as final and added to the gallery on 2026-11-07.
+
+[Episode source](../../01_comic_backlog/028_the_pilot_was_fast.md)
+
 ## Public-content boundary
 
 Use fictional industry scenarios and synthetic figures. Refer to people only by role or approved initials; do not document personal facts, private workplace events, employer/client identities, identity mappings, credentials, or local filesystem paths. Review prompts and artwork as public content.

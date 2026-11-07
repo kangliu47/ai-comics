@@ -84,6 +84,8 @@ This distinction matters: security is not one generic red sign. Some controls ke
 
 ## Current Visual Drafts
 
+Comic 028, [The Pilot Was Fast](01_comic_backlog/028_the_pilot_was_fast.md), is complete: [approved final v3](03_assets/selected_drafts/028_the_pilot_was_fast_v3.png) contrasts three freely moving pilot cars with queues burning fuel at the same signalized crossroads. A worried executive and annoyed operator lead to the key recall and belated change of metric. The original drafts, exact prompts, pre-production check and [editorial review](03_assets/concept_sketches/028_the_pilot_was_fast_review.md) are preserved. User approved publication on 2026-11-07; the episode is in the selected gallery.
+
 Comic 017, [Same Problem, Better Engines](01_comic_backlog/017_same_problem_better_engines.md), is complete: Excel-era fragmentation returns as AI-built software gridlock. The [revised final page](03_assets/selected_drafts/017_same_problem_better_engines_v5_landmarks_readable_jams.png) retains the earlier series’ lighter lettering and rendered grayscale cars, with a Data Governance guide clarifying client-dataset landmarks, recognizable app-car queues at several jammed intersections, competing driver dialogue, and a boxed governance signal. The original brief, script, prompts, and all five image iterations are preserved in the repository.
 
 The first Comic 001 sketch iterations are stored in `03_assets/concept_sketches/`, including a reference-style draft that uses the preferred 2x2 numbered-panel editorial layout.
@@ -92,4 +94,4 @@ Curated share-ready outputs are collected in the [selected-output gallery](galle
 
 ## Complete concept index
 
-See the [backlog and overlap index](00_core_framework/chatgpt_project_context/existing_backlog_summary.md) for all 27 retained concepts, including the product-orchestration arc.
+See the [backlog and overlap index](00_core_framework/chatgpt_project_context/existing_backlog_summary.md) for all 28 retained concepts, including the product-orchestration arc and the pilot-scaling episode.

@@ -2,8 +2,13 @@
 
 Reviewed concept sketches and selected drafts. All retained versions are public content; images must pass the privacy review described in the root instructions.
 
+## Latest Approved Final
+
+Comic 028, **The Pilot Was Fast**, v3 was approved for publication on 2026-11-07. [Selected final](selected_drafts/028_the_pilot_was_fast_v3.png) · [V3 source](concept_sketches/028_the_pilot_was_fast_sketch_v3_crossroads_expressions.png) · [V3 prompt](concept_sketches/028_the_pilot_was_fast_prompt_v3_crossroads_expressions.md) · [Original v1](concept_sketches/028_the_pilot_was_fast_sketch_v1_reference_style.png) · [V2](concept_sketches/028_the_pilot_was_fast_sketch_v2_exchange_order.png) · [Review](concept_sketches/028_the_pilot_was_fast_review.md).
+
 ## Selected Drafts
 
+- [028_the_pilot_was_fast_v3.png](selected_drafts/028_the_pilot_was_fast_v3.png)
 - [001_no_drivers_license_full_self_driving.png](selected_drafts/001_no_drivers_license_full_self_driving.png)
 - [001_no_drivers_license_full_self_driving_signed.png](selected_drafts/001_no_drivers_license_full_self_driving_signed.png)
 - [002_keys_assigned_nobody_driving.png](selected_drafts/002_keys_assigned_nobody_driving.png)

@@ -270,6 +270,30 @@
       "sha256": "41d9d6bda7bbea6e1a03ca46bf5b27b1ae652bea68fc8776055799084e3f9510",
       "reviewed": "2026-11-07",
       "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/028_the_pilot_was_fast_sketch_v1_reference_style.png",
+      "sha256": "26bab918e96d1d937522a51129f978ac30ec0225134a0d4be0de8a2a5f1521d0",
+      "reviewed": "2026-11-07",
+      "review": "Visual and C2PA metadata inspection: generic fictional city and roles, KKLL signature only; no identifying source content. User approved v3 as final and authorized publication; earlier reviewed iterations retained as source history."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/028_the_pilot_was_fast_sketch_v2_exchange_order.png",
+      "sha256": "27e9dd82505c7a5b9aa7d37ce9cc10c996708e53c548cbd38037c4d5a7bc27cc",
+      "reviewed": "2026-11-07",
+      "review": "Visual and C2PA metadata inspection: generic fictional city and roles, KKLL signature only; no identifying source content. User approved v3 as final and authorized publication; earlier reviewed iterations retained as source history."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/028_the_pilot_was_fast_sketch_v3_crossroads_expressions.png",
+      "sha256": "9e5e4de6f463dbeb63e8b822be2fde0e967f910796fd032e399ebced04b8e8e0",
+      "reviewed": "2026-11-07",
+      "review": "Visual and C2PA metadata inspection: generic fictional city and roles, KKLL signature only; no identifying source content. User approved v3 as final and authorized publication; earlier reviewed iterations retained as source history."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/028_the_pilot_was_fast_v3.png",
+      "sha256": "9e5e4de6f463dbeb63e8b822be2fde0e967f910796fd032e399ebced04b8e8e0",
+      "reviewed": "2026-11-07",
+      "review": "Visual and C2PA metadata inspection: generic fictional city and roles, KKLL signature only; no identifying source content. User approved v3 as final and authorized publication; earlier reviewed iterations retained as source history."
     }
   ]
 }

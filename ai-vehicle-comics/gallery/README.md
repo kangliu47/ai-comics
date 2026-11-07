@@ -2,6 +2,14 @@
 
 Fictional industry satire about enterprise AI adoption and operating problems. All figures and organizations are illustrative. Source prompts and drafts are available for creative reuse.
 
+## Comic 028: The Pilot Was Fast
+
+![Comic 028: The Pilot Was Fast](../03_assets/selected_drafts/028_the_pilot_was_fast_v3.png)
+
+Three cars on empty roads made a fast pilot. Enterprise traffic exposed the difference between individual speed and shared throughput.
+
+[Concept](../01_comic_backlog/028_the_pilot_was_fast.md) · [Generation prompt](../03_assets/concept_sketches/028_the_pilot_was_fast_prompt_v1_reference_style.md) · [Final revision prompt](../03_assets/concept_sketches/028_the_pilot_was_fast_prompt_v3_crossroads_expressions.md) · [PNG](../03_assets/selected_drafts/028_the_pilot_was_fast_v3.png)
+
 ## Comic 001: No Driver's License, Full Self-Driving Enabled
 
 ![Comic 001: No Driver's License, Full Self-Driving Enabled](../03_assets/selected_drafts/001_no_drivers_license_full_self_driving_signed.png)

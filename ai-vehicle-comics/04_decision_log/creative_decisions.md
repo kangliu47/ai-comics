@@ -4,6 +4,42 @@
 
 Use fictional industry-wide scenarios, generic operating roles, and synthetic figures. Preserve safe artistic rationale and reviewed images. Follow the root public-content privacy rules. Default signature is KKLL; relevant initials-only contributor credit remains on specific artifacts.
 
+## 2026-11-07: Comic 028 — V3 Approved For Publication
+
+Decision: The user selected the crossroads/expressions v3 as final and authorized merging to main and pushing. Copy the reviewed PNG byte-for-byte into selected_drafts, publish its gallery entry and brief caption, retain all safe iterations and exact prompts, and record inspected image hashes. Use KKLL Git metadata and the complete public-release check before commit and push.
+
+Separate website scope: A GitHub Pages gallery will present all selected gallery entries with brief captions. The workspace requires a lightweight interactive mock with synthetic content and approval of its navigation/reading flow before production frontend implementation. Do not change repository visibility or replace history.
+
+## 2026-11-07: Comic 028 — Crossroads v3 Delivered For Review
+
+Delivery: One built-in edit of v1 produced an unselected v3 at 1254 × 1254. Panels 2/3 now share a four-way crossroads, with three free-moving pilot cars versus queues waiting on several approaches. Heat/exhaust and foreground wheel spin show waiting resource burn; limited through movement makes this a throughput constraint. Restored v1's substantial station, worried executive and operator-left/executive-right staging, adding an annoyed deadpan operator and vertical dialogue hierarchy.
+
+Review: Locked text, key returns, faint train and KKLL signature are intact. Tiny muted red/green signal lamps fit the house accent allowance. Visual/provenance and file-integrity inspection found no identifying content or PNG issues. Updated draft references and review notes, retained v1/v2, and left selection and gallery approval pending. No commit or push.
+
+## 2026-11-07: Comic 028 — User Revision To Crossroads And Expressions v3
+
+Decision: Use original v1 as the edit base. The user prefers its traffic-control station and expressive executive to v2's smiling leader. Make the executive visibly worried/defensive and the IT operator annoyed and deadpan, while preserving the operator's competence and v1's operator-left/executive-right staging.
+
+Road revision: Replace the predominantly straight-boulevard comparison with the same clear four-way signalized crossroad in Panels 2/3. Three cars on different routes pass easily at low load. Many crossing and turning arrivals create queues waiting for lights at high load, consuming fuel while stationary. Preserve the locked wheel-spin detail, all script wording, and Panels 1/4. Use vertical dialogue hierarchy without moving the station to a small background box.
+
+Scope: One revised unselected image with exact prompt and pre-production check; preserve prior iterations. Final approval, gallery selection, commit and push remain outside this revision.
+
+## 2026-11-07: Comic 028 — Unselected v2 Delivered For Review
+
+Decision: Preserve v1 and one focused edit, v2, as concept sketches. V1 placed the operator's reply before the executive's objection in normal reading order. V2 re-stages that local Panel 3 cluster with executive/objection at left and operator/reply at right. The locked script, three-car pilot, early success claim, gridlocked junctions, stationary wheel burn, key recall, final metric and faint train remain intact.
+
+Review: Both 1254 × 1254 PNGs received agent visual and provenance inspection; no identifying content or file-level PNG issues were found. The full acceptance review and hashes are in the episode's review note. Human approval is pending, so the image-approval manifest and selected gallery remain unchanged. No commit or push.
+
+## 2026-11-07: Comic 028 — The Pilot Was Fast, Production Scope
+
+Decision: Use next available episode ID 028. Preserve the supplied four-panel script and the kicker “The cars were fast. The commute wasn't.” The user confirmed one generated draft plus a focused correction if needed, ending with an unselected page for review.
+
+Rationale: The pilot works because three cars have empty roads. Leadership celebrates this local speed as enterprise success before shared junctions become the bottleneck. The final panel recalls keys and names throughput belatedly; a faint train can suggest a direction without proving a solution. Keep employees and traffic-control staff competent.
+
+Design gate: Completed before generation in the episode source. Mirror the roads in Panels 2/3 and the stage in Panels 1/4. Omit optional dashboard/fuel labels. Require visible stationary wheel rotation, countable pilot cars, early executive bragging, and a dominant KEY RETURNS box. Review against 001, 003, 015, 017, 019, and 023; the policy-reversal arc distinguishes this page from the existing gridlock and cost-burn comics.
+
+Boundary: Fictional industry scenario only. No personal source brief, real organizational attribution, final selection, gallery promotion, commit, or push.
+
 ## 2026-11-07: Public-content edition
 
 Decision: Consolidate the safe artwork and concepts into one edition with generic pilot examples, generic platform/review labels, initials-only credit, and an explicit public-content privacy policy. Retain the source prompts and creative iteration trail that pass the same review as selected images. Give product-orchestration concepts distinct IDs 018–027.

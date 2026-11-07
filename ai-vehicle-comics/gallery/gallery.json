@@ -89,5 +89,16 @@
     "image": "../03_assets/selected_drafts/019_pit_crew_becomes_roadside_assistance_signed.png",
     "concept": "../01_comic_backlog/019_pit_crew_becomes_roadside_assistance.md",
     "prompt": "../03_assets/concept_sketches/019_pit_crew_becomes_roadside_assistance_prompt_v1_reference_style.md"
+  },
+  {
+    "id": "028",
+    "title": "The Pilot Was Fast",
+    "status": "final comic",
+    "message": "Three cars on empty roads made a fast pilot. Enterprise traffic exposed the difference between individual speed and shared throughput.",
+    "analogy_focus": "A low-load race-car pilot becomes queues at shared traffic lights; leadership recalls keys and belatedly measures how many people reach work.",
+    "image": "../03_assets/selected_drafts/028_the_pilot_was_fast_v3.png",
+    "concept": "../01_comic_backlog/028_the_pilot_was_fast.md",
+    "prompt": "../03_assets/concept_sketches/028_the_pilot_was_fast_prompt_v1_reference_style.md",
+    "revision_prompt": "../03_assets/concept_sketches/028_the_pilot_was_fast_prompt_v3_crossroads_expressions.md"
   }
 ]
