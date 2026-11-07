@@ -1,0 +1,275 @@
+{
+  "policy": "Human visual and metadata review is required before updating an image approval.",
+  "images": [
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/001_no_drivers_license_full_self_driving_sketch_v1.png",
+      "sha256": "1f868de8db3e4e7609a4df23a785dec9f1064a35e0f9b384868eafc972e8503d",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/001_no_drivers_license_full_self_driving_sketch_v2.png",
+      "sha256": "1ee6acb09cdf2dbb228b1bba9203d99e817d241659bb46739b74cf7ececd12d9",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/001_no_drivers_license_full_self_driving_sketch_v3_reference_style.png",
+      "sha256": "33bde9db0dffdd1aaef5883c658ef1318dd2ff5d996be7688e1ae341f006aa68",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/001_no_drivers_license_full_self_driving_sketch_v4_signed_reference_style.png",
+      "sha256": "3b2365d4be8c097709ffdbf78fe5ba5c6d7c2bb9fe3e6139332a5b9ff0f06e24",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/002_keys_assigned_nobody_driving_sketch_v1_reference_style.png",
+      "sha256": "bc3b8451e0714a67cfd026658802bb71ae81c0a2b07542f4c33149c739818188",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/002_keys_assigned_nobody_driving_sketch_v2_signed_reference_style.png",
+      "sha256": "07075976dd9bd59d3fe153f37bc74f353e9553c69d614d556a2ada7d2ad65829",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/003_waiting_for_the_cybertruck_sketch_v1_reference_style.png",
+      "sha256": "7c820ff3b676d3f7ccdb1fc251527d538d94a36c4fdc5894f3b901a69ab3d393",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/003_waiting_for_the_cybertruck_sketch_v2_signed_reference_style.png",
+      "sha256": "efc03ddca3ad20984e7f6a3fa19346650022b6b834de39f555bad625e27d7826",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/003_waiting_for_the_cybertruck_style_comparison_current_editorial.png",
+      "sha256": "b596104248bd01b21cd78999764cc214efbf6d449f33f6c788ee76b53e835469",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/003_waiting_for_the_cybertruck_style_comparison_first_principles_deadpan.png",
+      "sha256": "f7b84b8d97e7ade7b41913a854b05d7a82158136d31addd4e64f791120a255a9",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/004_the_entire_ai_highway_department_sketch_v1_reference_style.png",
+      "sha256": "eeaa9e3400a255081da11ee274af06ac5bcecc06eb3cecf20b3e2cb7edc6df99",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/005_the_guardrails_were_the_road_sketch_v1_reference_style.png",
+      "sha256": "29b030c4f905801aa7ca2bae4000c0a7c3a03e6289679f2e3e77dbe28653e514",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/005_the_guardrails_were_the_road_sketch_v2_reference_style.png",
+      "sha256": "75452295d29f8dedd1600487cebad246bed8b2c5eb996134610fbb3ce8304751",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/005_the_guardrails_were_the_road_sketch_v3_reference_style.png",
+      "sha256": "44a7ee4d191c1812ea3853379f98331fbe8de63f8b1cd23fbd8c27f7dabff480",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/015_formula_1_cars_for_two_block_commutes_sketch_v1_reference_style.png",
+      "sha256": "fea4036c05d0588fe2e00ac5f666a9b7b9d509c383af28509cf3febe4ab28169",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/015_formula_1_cars_for_two_block_commutes_sketch_v2_reference_style.png",
+      "sha256": "010b254a5f1139a74a49b01f361b87775e647b955fc798339a0b63d114ef4c9a",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/015_formula_1_cars_for_two_block_commutes_sketch_v3_reference_style.png",
+      "sha256": "f33ffddb9abbccff44c6882cef30c04c1b68805f3f9eed29662baf4823f1a1f2",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/016_misalignment_scales_traffic_not_outcomes_sketch_v1_reference_style.png",
+      "sha256": "8feedccce05eee5b90d69c493219f55133a0939c1398527b19185ae2c473525f",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/016_misalignment_scales_traffic_not_outcomes_sketch_v2_reference_style.png",
+      "sha256": "8705d5fc73083e2d1527cafc992cdb7fa5ce6c3d91551a21b605e2bfaaff82af",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/017_same_problem_better_engines_sketch_v1_reference_style.png",
+      "sha256": "38bed0ee94b854e8a779f7a52d26f461f09b31e7a5961419dd29da9c686c56d3",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/017_same_problem_better_engines_sketch_v2_tail_fix.png",
+      "sha256": "0d2476906b51896dae5b9ec1e034158e1981753f9c1fd45d7126351da8f1b5db",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/017_same_problem_better_engines_sketch_v3_house_style.png",
+      "sha256": "1db5e570672fcfd8d2c0968d4ef850b43c22600af11d95ffbdabdc7f7ca1473b",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/017_same_problem_better_engines_sketch_v4_network_gridlock.png",
+      "sha256": "200265aeb2a08af7f16efd48c455094a33dc990a27c8c5f5e4c7299c951060b1",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/017_same_problem_better_engines_sketch_v5_landmarks_readable_jams.png",
+      "sha256": "fb3b4bf2f3383ccd6ccf7630c65312be6d68d35b9be602785304887a7c4b25f3",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/019_pit_crew_becomes_roadside_assistance_sketch_v1_reference_style.png",
+      "sha256": "7561990a651160f6e5f1fef5fcbcf0b5111f5096333063018d0df397eccc53d3",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/concept_sketches/019_pit_crew_becomes_roadside_assistance_sketch_v2_signed_reference_style.png",
+      "sha256": "41d9d6bda7bbea6e1a03ca46bf5b27b1ae652bea68fc8776055799084e3f9510",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/001_no_drivers_license_full_self_driving.png",
+      "sha256": "33bde9db0dffdd1aaef5883c658ef1318dd2ff5d996be7688e1ae341f006aa68",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/001_no_drivers_license_full_self_driving_signed.png",
+      "sha256": "3b2365d4be8c097709ffdbf78fe5ba5c6d7c2bb9fe3e6139332a5b9ff0f06e24",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/002_keys_assigned_nobody_driving.png",
+      "sha256": "bc3b8451e0714a67cfd026658802bb71ae81c0a2b07542f4c33149c739818188",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/002_keys_assigned_nobody_driving_signed.png",
+      "sha256": "07075976dd9bd59d3fe153f37bc74f353e9553c69d614d556a2ada7d2ad65829",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/003_waiting_for_the_cybertruck.png",
+      "sha256": "7c820ff3b676d3f7ccdb1fc251527d538d94a36c4fdc5894f3b901a69ab3d393",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/003_waiting_for_the_cybertruck_signed.png",
+      "sha256": "efc03ddca3ad20984e7f6a3fa19346650022b6b834de39f555bad625e27d7826",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/004_the_entire_ai_highway_department.png",
+      "sha256": "eeaa9e3400a255081da11ee274af06ac5bcecc06eb3cecf20b3e2cb7edc6df99",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/005_the_guardrails_were_the_road.png",
+      "sha256": "44a7ee4d191c1812ea3853379f98331fbe8de63f8b1cd23fbd8c27f7dabff480",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/015_formula_1_cars_for_two_block_commutes.png",
+      "sha256": "fea4036c05d0588fe2e00ac5f666a9b7b9d509c383af28509cf3febe4ab28169",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/015_formula_1_cars_for_two_block_commutes_v2.png",
+      "sha256": "010b254a5f1139a74a49b01f361b87775e647b955fc798339a0b63d114ef4c9a",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/015_the_strategic_two_block_commute_v3.png",
+      "sha256": "f33ffddb9abbccff44c6882cef30c04c1b68805f3f9eed29662baf4823f1a1f2",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/016_misalignment_scales_traffic_not_outcomes.png",
+      "sha256": "8feedccce05eee5b90d69c493219f55133a0939c1398527b19185ae2c473525f",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/016_misalignment_scales_traffic_not_outcomes_v2.png",
+      "sha256": "8705d5fc73083e2d1527cafc992cdb7fa5ce6c3d91551a21b605e2bfaaff82af",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/017_same_problem_better_engines.png",
+      "sha256": "0d2476906b51896dae5b9ec1e034158e1981753f9c1fd45d7126351da8f1b5db",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/017_same_problem_better_engines_v3_house_style.png",
+      "sha256": "1db5e570672fcfd8d2c0968d4ef850b43c22600af11d95ffbdabdc7f7ca1473b",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/017_same_problem_better_engines_v4_network_gridlock.png",
+      "sha256": "200265aeb2a08af7f16efd48c455094a33dc990a27c8c5f5e4c7299c951060b1",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/017_same_problem_better_engines_v5_landmarks_readable_jams.png",
+      "sha256": "fb3b4bf2f3383ccd6ccf7630c65312be6d68d35b9be602785304887a7c4b25f3",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/019_pit_crew_becomes_roadside_assistance.png",
+      "sha256": "7561990a651160f6e5f1fef5fcbcf0b5111f5096333063018d0df397eccc53d3",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    },
+    {
+      "path": "ai-vehicle-comics/03_assets/selected_drafts/019_pit_crew_becomes_roadside_assistance_signed.png",
+      "sha256": "41d9d6bda7bbea6e1a03ca46bf5b27b1ae652bea68fc8776055799084e3f9510",
+      "reviewed": "2026-11-07",
+      "review": "Visual review: fictional industry scene, approved initials only, no identifying personal/workplace text. PNG provenance reviewed."
+    }
+  ]
+}
