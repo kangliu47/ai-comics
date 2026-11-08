@@ -4,6 +4,10 @@
 
 Use fictional industry-wide scenarios, generic operating roles, and synthetic figures. Preserve safe artistic rationale and reviewed images. Follow the root public-content privacy rules. Default signature is KKLL; relevant initials-only contributor credit remains on specific artifacts.
 
+## 2026-11-07: GitHub Pages Gallery — Live Delivery Verified
+
+Delivery: Published the ten-comic gallery at [AI Vehicle Comics](https://kangliu47.github.io/ai-comics/). The [initial Pages deployment](https://github.com/kangliu47/ai-comics/actions/runs/42423585574) completed successfully for the gallery source commit. Verified the live newest-first gallery, [Comic 028 direct reader](https://kangliu47.github.io/ai-comics/#comic-028), original-artwork link and successful copy-link sharing in the browser. Preserved the approved grid-to-reader flow and existing image bytes/provenance. Source changes were merged into main and pushed with KKLL author/committer metadata; release checks passed.
+
 ## 2026-11-07: GitHub Pages Gallery — Approved Flow And Deployment
 
 Decision: The user approved the sample-content grid → reader mock. Implement the same flow for all ten selected comics, newest first, with existing brief captions, previous/next navigation, browser history, original-resolution artwork and per-comic hash links. Keep the monochrome editorial presentation and KKLL credit.
